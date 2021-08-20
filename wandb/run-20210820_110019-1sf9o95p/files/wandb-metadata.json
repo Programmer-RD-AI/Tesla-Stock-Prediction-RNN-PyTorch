@@ -1,0 +1,18 @@
+{
+    "os": "Linux-5.11.0-27-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.7",
+    "heartbeatAt": "2021-08-20T05:30:20.376167",
+    "startedAt": "2021-08-20T05:30:19.057649",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/RNN/Tesla-Stock-Prediction/run.py",
+    "codePath": "run.py",
+    "host": "ranugad",
+    "username": "indika",
+    "executable": "/home/indika/anaconda3/bin/python"
+}
