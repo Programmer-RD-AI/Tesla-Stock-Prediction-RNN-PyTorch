@@ -234,7 +234,7 @@ pep8==1.7.1
 pexpect==4.8.0
 phonenumbers==8.12.28
 pickleshare==0.7.5
-pillow==8.2.0
+pillow==8.3.2
 pip==21.1.1
 pipwin==0.5.1
 pkginfo==1.7.0
