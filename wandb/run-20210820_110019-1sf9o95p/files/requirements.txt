@@ -269,7 +269,7 @@ pyflakes==2.3.1
 pygeoip==0.3.2
 pygments==2.9.0
 pyjsparser==2.7.1
-pyjwt==1.7.1
+pyjwt==2.4.0
 pylint==2.7.4
 pymongo==3.12.0
 pyodbc==4.0.0-unsupported
