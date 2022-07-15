@@ -69,7 +69,7 @@ defusedxml==0.7.1
 deprecated==1.2.12
 detectron2==0.4+cu101
 distlib==0.3.2
-distributed==2021.5.1
+distributed==2021.10.0
 distro==1.6.0
 dlib==19.22.0
 dnspython==1.16.0
